@@ -1,0 +1,1 @@
+Just testing the `core.symlinks = true` setting on both the code host and SG
